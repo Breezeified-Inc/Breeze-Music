@@ -11,7 +11,13 @@
 <body> 
     
     <form>
-        <input type="text"> 
+        <h2>Sign in</h2>
+        <label for="name">Username</label>
+        <input type="text" placeholder="cream">
+
+        <label for="password">Password</label>
+        <input type="password" placeholder="********"> 
+        <button type="submit">Sign in</button>
     </form>
 
 
